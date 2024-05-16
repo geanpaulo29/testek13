@@ -1,0 +1,39 @@
+body {
+    font-family: 'Trebuchet MS',  sans-serif;
+    margin: 20px;
+    background-image: linear-gradient(to left, blue, rgb(130, 37, 158));
+}
+
+form {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+fieldset {
+    border: none;
+}
+
+legend {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: rgb(255, 255, 255);
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.button{
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(255, 0, 242);
+    color: white;
+    font-family: 'Trebuchet MS', sans-serif;
+}
